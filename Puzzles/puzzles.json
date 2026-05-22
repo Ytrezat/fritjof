@@ -32,5 +32,6 @@
   { "name": "Puzzle 12 (Luu)", "file": "Puzzle_12.json", "level": "1" },
   { "name": "Puzzle 13 (Luu)", "file": "Puzzle_13.json", "level": "2" },
   { "name": "Puzzle 14 (Ytreza)", "file": "Puzzle_14.json", "level": "2" },
-  { "name": "Puzzle 15 (Ytreza)", "file": "Puzzle_15.json", "level": "3" }
+  { "name": "Puzzle 15 (Ytreza)", "file": "Puzzle_15.json", "level": "3" },
+  { "name": "Puzzle 16 (Ytreza)", "file": "Puzzle_16.json", "level": "2" }
 ]
