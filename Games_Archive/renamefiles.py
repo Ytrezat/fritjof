@@ -259,7 +259,7 @@ def merge_games(existing: list[dict], new_entries: list[dict]) -> list[dict]:
 
     games = list(merged.values())
     games.sort(key=extract_sort_dt_from_entry)
-    return games
+9.3    return games
 
 
 def main():

@@ -28,5 +28,9 @@
   { "name": "Puzzle 8 (Luu)", "file": "Puzzle_8.json", "level": "1" },
   { "name": "Puzzle 9 (Ytreza)", "file": "Puzzle_9.json", "level": "1" },
   { "name": "Puzzle 10 (Luu)", "file": "Puzzle_10.json", "level": "1" },
-  { "name": "Puzzle 11 (Ytreza)", "file": "Puzzle_11.json", "level": "1" }
+  { "name": "Puzzle 11 (Ytreza)", "file": "Puzzle_11.json", "level": "1" },
+  { "name": "Puzzle 12 (Luu)", "file": "Puzzle_12.json", "level": "1" },
+  { "name": "Puzzle 13 (Luu)", "file": "Puzzle_13.json", "level": "2" },
+  { "name": "Puzzle 14 (Ytreza)", "file": "Puzzle_14.json", "level": "2" },
+  { "name": "Puzzle 15 (Ytreza)", "file": "Puzzle_15.json", "level": "3" }
 ]
